@@ -1,0 +1,11 @@
+# Ignore Python venv and secret keys
+.venv/
+.streamlit/secrets.toml
+__pycache__/
+
+git init
+git add .
+git commit -m "Initial commit – pre-market bias app"
+git branch -M main
+git remote add origin https://github.com/john-barbagallo/pre_market_bias.git
+git push -u origin main

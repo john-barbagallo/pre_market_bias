@@ -1,0 +1,7 @@
+# requirements.txt  – packages for Pre-Market Bias app
+streamlit
+yfinance
+openai
+requests
+python-dotenv
+pytz
