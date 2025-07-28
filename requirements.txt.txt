@@ -1,8 +1,0 @@
-# requirements.txt
-# Dependency list for the Pre-Market Bias Generator
-streamlit
-yfinance
-openai
-requests
-python-dotenv
-pytz
